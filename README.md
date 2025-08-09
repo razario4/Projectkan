@@ -1,2 +1,2 @@
 # Projectkan
-Latihan
+Analisa Data Penjualan
